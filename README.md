@@ -11,11 +11,11 @@ TaskAura is a full-stack to-do list application built using Angular for the fron
 
 
 ## Technologies Used:
-- Frontend: Angular
-- Backend: Spring Boot
-- Database: MySQL
-- Version Control: Git
-- Hosting: GitHub
+- Frontend:- Angular
+- Backend:- Spring Boot
+- Database:- MySQL
+- Version Control:- Git
+- Hosting:- GitHub
 
 
 
